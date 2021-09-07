@@ -1,8 +1,8 @@
-### Olá sou a Angelica Lirio 👋
+### Hello i'm Angelica Lirio 👋
 
-- 🌱 Estudante de programação Full Stack na Digital House.
-- 😍 Cada dia mais entusiasmada com a área de Tecnologia.
-- 📧 Contate-me no e-mail: angelicablirio@gmail.com.
+- 🌱 Full Stack student at Digital House - Brazil.
+- 😍 Very enthusiastic about the Technology area.
+- 📧 Contact email: angelicablirio@gmail.com.
 
  <div>
   <a href="https://github.com/angelicablirio">
