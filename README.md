@@ -2,7 +2,7 @@
 
 - 🌱 Full Stack student at Digital House - Brazil.
 - 😍 Very enthusiastic about the Technology area.
-- 📧 Contact email: angelicablirio@gmail.com.
+- 📧 Contact e-mail: angelicablirio@gmail.com.
 
  <div>
   <a href="https://github.com/angelicablirio">
