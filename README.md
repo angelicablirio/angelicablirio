@@ -1,4 +1,4 @@
-### Hello i'm Angelica Lirio 👋
+### Hello i'm Angelica Barbieri Lirio 👋
 
 - 🌱 Full Stack student at Digital House - Brazil.
 - 😍 Very enthusiastic about the Technology area.
