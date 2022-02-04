@@ -12,9 +12,10 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Ange-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ange-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ange-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ange-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ange-CSS" height="30" width="30" src="https://th.bing.com/th/id/OIP.vLiMxqkqzuSUpANiA0-iVgHaHa?w=171&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7">
 </div>
   
     ##
