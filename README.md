@@ -15,8 +15,8 @@
   <img align="center" alt="Ange-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ange-TypeScript" height="30" width="30" src="https://w7.pngwing.com/pngs/1008/952/png-transparent-typescript-hd-logo-thumbnail.png">
   <img align="center" alt="Ange-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ange-Next" height="30" width="50" src="https://www.datocms-assets.com/98835/1684410508-image-7.png">
-  <img align="center" alt="Ange-Next" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
+  <img align="center" alt="Ange-Next" height="30" width="30" src="https://www.datocms-assets.com/98835/1684410508-image-7.png">
+  <img align="center" alt="Ange-Next" height="20" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
 </div>
 
   <br>
